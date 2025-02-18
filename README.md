@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ditteoc" alt="ditteoc" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+[🌍 My Portfolio](https://ditteportfolio.vercel.app/)
 <p align="left">
 </p>
 
